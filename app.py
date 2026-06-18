@@ -16,15 +16,13 @@ with col2:
 
     st.title("Marco Nogal")
 
-    st.caption("Marco Antonio Noguera Alvarenga")
+   st.subheader("Matemático")
 
-    st.subheader("Matemático")
+    st.divider()
 
-st.divider()
+    st.header("Material Académico")
 
-st.header("Material Académico")
-
-st.write("""
+    st.write("""
 Soy **Marco Antonio Noguera Alvarenga**, venezolano de nacimiento y mexicano de corazón.
 Desde hace más de **17 años** tengo el privilegio de dedicarme a la docencia universitaria,
 una profesión que considero no solo un trabajo, sino una verdadera vocación.
