@@ -24,7 +24,7 @@ st.divider()
 
 st.header("Material Académico")
 
-    st.write("""
+st.write("""
 Soy **Marco Antonio Noguera Alvarenga**, venezolano de nacimiento y mexicano de corazón.
 Desde hace más de **17 años** tengo el privilegio de dedicarme a la docencia universitaria,
 una profesión que considero no solo un trabajo, sino una verdadera vocación.
