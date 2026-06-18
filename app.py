@@ -6,21 +6,23 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Portal de Materiales Académicos")
-
-st.divider()
-
 col1, col2 = st.columns([1,2])
 
 with col1:
 
-    st.image("foto.jpeg", width=280)
+    st.image("foto.jpeg", width=300)
 
 with col2:
 
-    st.header("Marco Antonio Noguera Alvarenga")
+    st.title("Marco Nogal")
+
+    st.caption("Marco Antonio Noguera Alvarenga")
 
     st.subheader("Matemático")
+
+st.divider()
+
+st.header("Material Académico")
 
     st.write("""
 Soy **Marco Antonio Noguera Alvarenga**, venezolano de nacimiento y mexicano de corazón.
