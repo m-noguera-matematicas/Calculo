@@ -28,7 +28,7 @@ una profesión que considero no solo un trabajo, sino una verdadera vocación.
 Mi formación académica es la de **Matemático**. A lo largo de mi trayectoria he impartido 
 diferentes tipos de cursos entorno a las matemáticas a nivel universitario, convencido 
 de que las matemáticas son una herramienta fundamental para
-comprender el mundo y desarrollar el pensamiento crítico y que la educación es el camino 
+comprender el mundo, desarrollar el pensamiento crítico y que la educación es el camino 
 más sólido para construir una mejor sociedad.
 
 Fuera del aula disfruto de una buena taza de café, la ciencia ficción, la lectura,
