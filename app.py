@@ -16,7 +16,7 @@ with col2:
 
     st.title("Marco Nogal")
 
-   st.subheader("Matemático")
+    st.subheader("Matemático")
 
     st.divider()
 
