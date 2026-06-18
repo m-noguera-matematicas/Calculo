@@ -20,8 +20,6 @@ with col2:
 
     st.divider()
 
-    st.header("Material Académico")
-
     st.write("""
 Soy **Marco Antonio Noguera Alvarenga**, venezolano de nacimiento y mexicano de corazón.
 Desde hace más de **17 años** tengo el privilegio de dedicarme a la docencia universitaria,
